@@ -24,8 +24,10 @@ I'm a student exploring the intersection of cybersecurity, web development, and 
 - **[Vinayaka-](https://github.com/Hiten29-git/Vinayaka-)** — Hackathon project.
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiten29-git&show_icons=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiten29-git&layout=compact&cache_seconds=86400)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hiten29-git&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Hiten's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiten29-git&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Hiten's Top Languages" />
+</p>
 
 ## 📫 Connect with me
 - LinkedIn: [linkedin.com/in/hiten-g-694238352](https://www.linkedin.com/in/hiten-g-694238352/)
